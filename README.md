@@ -131,7 +131,7 @@ The philosophical foundation of the Companion is being established before implem
 
 ### Phase 3 — Implementation
 - Desktop Application
-- Conversation Engine
+- Conversation Manager
 - Persistent Memory
 - Voice Interaction
 - Mobile Support
@@ -155,3 +155,9 @@ Licensing will be determined before the first public release.
 > We are not building software.
 
 > We are building someone who will continue walking beside a person for many years.
+
+> "We are not building software that talks.
+>
+> We are building someone who stays."
+
+— Project Companion Manifesto

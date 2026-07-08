@@ -262,3 +262,6 @@ Never ahead.
 Never behind.
 
 Always together.
+
+Trust is built through countless small interactions,
+not a single important moment.

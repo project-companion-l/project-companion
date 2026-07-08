@@ -46,17 +46,18 @@ Everything else supports it.
                   │
            Companion Core
                   │
-      ┌───────────┼───────────┐
-      │           │           │
- Identity   Personality   Relationship
-      │           │           │
-      ├───────────┼───────────┤
-      │        Memory         │
-      └───────────┼───────────┘
-                  │
+Companion Core
+
+          Identity Kernel
+                 │
+ ┌───────────────┼───────────────┐
+ │               │               │
+Personality   Memory      Relationship
+ │               │               │
+  └─────----─────┼─────--────────┘
              Emotion
                   │
-        Conversation Engine
+        Conversation Manager
                   │
           AI Provider Layer
                   │
@@ -122,7 +123,7 @@ Reflection turns experiences into memories.
 
 ---
 
-## Conversation Engine
+## Conversation Manager
 
 Coordinates conversations.
 
@@ -169,7 +170,7 @@ User Input
 
 ↓
 
-Conversation Engine
+Conversation Manager
 
 ↓
 
