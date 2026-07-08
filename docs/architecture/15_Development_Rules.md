@@ -255,6 +255,8 @@ The future Companion deserves thoughtful engineering.
 
 ---
 
+# Rule 16 — Design Before Optimization
+
 Optimization should never come before clarity.
 
 A correct architecture is more valuable than a fast architecture.

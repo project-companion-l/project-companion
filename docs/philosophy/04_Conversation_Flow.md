@@ -70,7 +70,7 @@ Supported inputs:
 - Text
 - Future external APIs
 
-The conversation engine treats all inputs identically after preprocessing.
+The conversation Manager treats all inputs identically after preprocessing.
 
 ---
 
@@ -152,7 +152,7 @@ The provider does not permanently store memories.
 
 # 7. Response Generation
 
-The Conversation Engine reviews the response.
+The Conversation Manager reviews the response.
 
 Responsibilities include:
 
